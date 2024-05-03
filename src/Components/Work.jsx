@@ -1,8 +1,8 @@
 import React from 'react'
-import Proj1 from  '../Assets/proj1.png'
-import Proj2 from  '../Assets/proj2.png'
-import Proj3 from  '../Assets/proj3.png'
-import Proj4 from  '../Assets/proj4.png'
+import Proj1 from  '../Assets/qr.jpg'
+import Proj2 from  '../Assets/3col.jpg'
+import Proj3 from  '../Assets/Landing.jpg'
+import Proj4 from  '../Assets/news.jpg'
 
 const Work = () => {
   return (
