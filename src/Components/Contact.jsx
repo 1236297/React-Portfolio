@@ -18,7 +18,7 @@ const Contact = () => {
                             <path></path>
                         </svg>
                         <div className='ml-4 text-md tracking-wide font-semibold w-40'>
-                            <p>John Doe</p>
+                            <p>Sultan. G</p>
                         </div>
                     </div>
                 </div>
